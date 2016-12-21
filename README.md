@@ -48,4 +48,4 @@ You can go through Xianwen's blog “How to Make an iOS VoIP App With Pjsip: Par
 
 1. <a href="https://github.com/xianwen">Xianwen Chen</a> for providing easy to understand and very helpful articles on VoIP on <a href="http://xianwenchen.com/">Xianwen's blog</a>. 
 
-2. http://www.pjsip.org/ for really informative documentation and tutorials for each platform.
+2. http://www.pjsip.org/ for very informative documentation and tutorials for each platform.
